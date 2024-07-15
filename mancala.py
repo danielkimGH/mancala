@@ -1,5 +1,3 @@
-# Author: Daniel Kim
-
 class Player:
     """Class definition for Player"""
     def __init__(self, name):
