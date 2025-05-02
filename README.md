@@ -1,5 +1,5 @@
 # mancala
-Text based version for Mancala game. Click [HERE](https://www.scholastic.com/content/dam/teachers/blogs/alycia-zimmerman/migrated-files/mancala_rules.pdf) to learn how to play!
+Text based version for Mancala game. Click [HERE](https://github.com/danielkimGH/mancala/blob/main/mancala_rules.pdf) to learn how to play!
 
 **Mancala:** The Mancala object represents the game as played. Contains information about the players and game board
 - **create_player:** Takes one parameter of the player’s name as a string and returns the player object
